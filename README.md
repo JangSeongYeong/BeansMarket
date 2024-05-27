@@ -27,7 +27,7 @@
 <br/><br/>
 
 ## 기능정의서
-추후 공유 드라이브에 업로드 후 링크 추가
+https://drive.google.com/drive/folders/1yBIdBRZZfsOw1D5pBxf8c4Sx64ZoM7zI
 <br/><br/>
 
 ## ERD 설계
@@ -35,13 +35,13 @@
 <br/><br/>
 
 ## UI 설계
-추후 공유 드라이브에 업로드 후 링크 추가
+https://drive.google.com/drive/folders/1yBIdBRZZfsOw1D5pBxf8c4Sx64ZoM7zI
 <br/><br/>
 
 ## 인터페이스 정의서
-추후 공유 드라이브에 업로드 후 링크 추가
+https://drive.google.com/drive/folders/1yBIdBRZZfsOw1D5pBxf8c4Sx64ZoM7zI
 <br/><br/>
 
 ## 테스트 내역서
-추후 공유 드라이브에 업로드 후 링크 추가
+https://drive.google.com/drive/folders/1yBIdBRZZfsOw1D5pBxf8c4Sx64ZoM7zI
 <br/><br/>
