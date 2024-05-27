@@ -10,6 +10,11 @@
 
 <br/><br/>
 
+## 프로그램 사진
+<img width="750px" src="https://github.com/JangSeongYeong/BeansMarket/assets/109867833/eb0f8fb8-48b2-4d69-876c-fc397e8cd8b7"/>
+
+<br/><br/>
+
 ## 프로젝트 일정 (제작 기간)
 <p>4월 1일 ~ 5월 10일 (40일)</p>
 <img width="750px" src="https://github.com/JangSeongYeong/BeansMarket/assets/109867833/b55d5066-4ea6-45f7-b3ff-c735e1527788" />
